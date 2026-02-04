@@ -34,3 +34,4 @@ Thumbs.db
 # Datasets/artifacts
 *.zip
 *.api.txt
+*data
